@@ -1,4 +1,4 @@
-# Souting websites to find information about hedge funds
+# Scouting websites to find information about hedge funds
 
 
 - [ ]  Collect data with scrapping from **Sources**
